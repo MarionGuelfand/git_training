@@ -1,3 +1,5 @@
 # This is an exercise
 
 This is an exercise for the 2024 IPGP git class
+
+I feel like I like GIT.
