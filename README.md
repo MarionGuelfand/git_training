@@ -13,3 +13,5 @@ add a gif
 =======
 This should be a non-conflicting modification.
 >>>>>>> 77a8648 (Adding a new line to README.md)
+
+Thanks for reading this file.
