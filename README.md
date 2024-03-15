@@ -1,4 +1,5 @@
 # This is an exercise
+## This is my first GIT repository.
 
 This is an exercise for the 2024 IPGP git class
 
